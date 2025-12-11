@@ -42,7 +42,7 @@ src/
 ## 🌐 Página publicada
 
 O projeto está disponível online via GitHub Pages:
-[https://projeto-integrado-3.github.io/Lista_Contatos_Lite/]
+[https://vmr-integrados.github.io/Lista_Contatos_Lite/]
 
 
 ## 🚀 Como Usar
